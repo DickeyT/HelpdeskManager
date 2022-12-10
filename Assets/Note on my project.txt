@@ -1,0 +1,9 @@
+Thank you for taking the time to look over my project, and review my progress.
+
+I know that my code is not where I would like it to be, and I am missing unit testing.  I do humbly appologize.
+
+I chose to use csv files in conjunction with pandas frameworks, to help keep this project as self contained as I could, while still allowing data manipulation.  Given more time and resources, I would have rather used a sql or mongo database.
+
+I also know given more time, I could make this program work wonderfully, and something that I could be proud of.
+
+Thank you for your time.
